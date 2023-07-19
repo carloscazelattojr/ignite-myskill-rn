@@ -16,6 +16,7 @@ npmx react-native run-android
 ## Print
 
  <h1 align="center">
-    <img alt="IgniteTeams" title="#IgniteTeams" src="https://github.com/carloscazelattojr/myskill-rn/blob/main/assets/emulador.png"  /><br>
+    <img alt="IgniteTeams" title="#IgniteTeams" src="[https://github.com/carloscazelattojr/ignite-myskill-rn/blob/main/assets/emulador.png](https://github.com/carloscazelattojr/ignite-myskill-rn/blob/main/assets/emulador.png)"  /><br>
 </h1>
 <br>
+ 
